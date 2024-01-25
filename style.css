@@ -1,0 +1,18 @@
+.box{
+    width: 1249px;
+height: 376px;
+border-radius: 30px;
+background: #22F4DA;
+margin-left: 86px;
+margin-top: 73px;
+}
+p{
+    color: #000;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-left: 536px;
+padding-top: 29px;
+}
